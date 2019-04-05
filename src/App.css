@@ -54,8 +54,13 @@
   text-transform: uppercase;
 }
 
+.navbar ul li a {
+  padding: 10px;
+  border-radius: 5px;
+}
+
 .navbar ul li a:hover {
   text-decoration: underline;
   color: white;
-  background: darkblue;
+  background: dodgerblue;
 }

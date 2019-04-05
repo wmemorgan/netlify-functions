@@ -26,6 +26,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "http-proxy-middleware": "^0.19.1",
     "netlify-lambda": "^1.4.3"
   }
 }

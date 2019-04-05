@@ -393,7 +393,7 @@
     "@babel/helper-create-class-features-plugin" "^7.3.0"
     "@babel/helper-plugin-utils" "^7.0.0"
 
-"@babel/plugin-proposal-class-properties@^7.0.0", "@babel/plugin-proposal-class-properties@^7.3.0":
+"@babel/plugin-proposal-class-properties@^7.0.0":
   version "7.4.0"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-class-properties/-/plugin-proposal-class-properties-7.4.0.tgz#d70db61a2f1fd79de927eea91f6411c964e084b8"
   integrity sha512-t2ECPNOXsIeK1JxJNKmgbzQtoG27KIlVE61vTqX0DKR9E9sZlVVxWUtEW9D5FlZ8b8j7SBNCHY47GgPKCKlpPg==
@@ -426,7 +426,7 @@
     "@babel/helper-plugin-utils" "^7.0.0"
     "@babel/plugin-syntax-object-rest-spread" "^7.2.0"
 
-"@babel/plugin-proposal-object-rest-spread@^7.0.0", "@babel/plugin-proposal-object-rest-spread@^7.3.2", "@babel/plugin-proposal-object-rest-spread@^7.4.3":
+"@babel/plugin-proposal-object-rest-spread@^7.0.0", "@babel/plugin-proposal-object-rest-spread@^7.4.3":
   version "7.4.3"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.4.3.tgz#be27cd416eceeba84141305b93c282f5de23bbb4"
   integrity sha512-xC//6DNSSHVjq8O2ge0dyYlhshsH4T7XdCVoxbi5HzLYWfsC5ooFlJjrXk8RcAT+hjHAK9UjBXdylzSoDK3t4g==
@@ -805,7 +805,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.0.0"
 
-"@babel/plugin-transform-object-assign@^7.0.0", "@babel/plugin-transform-object-assign@^7.2.0":
+"@babel/plugin-transform-object-assign@^7.0.0":
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-object-assign/-/plugin-transform-object-assign-7.2.0.tgz#6fdeea42be17040f119e38e23ea0f49f31968bde"
   integrity sha512-nmE55cZBPFgUktbF2OuoZgPRadfxosLOpSgzEPYotKSls9J4pEPcembi8r78RU37Rph6UApCpNmsQA4QMWK9Ng==

@@ -31,3 +31,24 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar ul {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul * {
+  list-style: none;
+  text-decoration: none;
+  text-transform: uppercase;
+}
